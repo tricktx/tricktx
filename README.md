@@ -4,7 +4,8 @@
 - 🌱 Atualmente estou estudando ciência de dados
 - 📫 How to reach me: Patrick.tx@hotmail.com.br
 - 😄 Pronouns: ele/dele
--->
+- 
+--
 
 <div align="center">
   <a href="https://github.com/tricktx">
