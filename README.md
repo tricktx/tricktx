@@ -43,9 +43,10 @@ Today I work as a Junior Data Engineer focused on building and maintaining data 
 ## Contacts:
 
 <div> 
+</a>
 <a href = "mailto:patrick.tx@hotail.com.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/rafael-ladeia/](https://www.linkedin.com/in/patrick-tx/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="[https://medium.com/@tricktx](https://medium.com/@patrickteixeira_99701)" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
+<a href="https://www.linkedin.com/in/patrick-tx/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://medium.com/@patrickteixeira_99701" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
 
