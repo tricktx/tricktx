@@ -41,7 +41,6 @@ Today I work as a Junior Data Engineer focused on building and maintaining data 
 &nbsp;
 
 ## Contacts:
-
 <div> 
 </a>
 <a href = "mailto:patrick.tx@hotail.com.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
