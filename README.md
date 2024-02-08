@@ -49,5 +49,4 @@ Today I work as a Junior Data Engineer focused on building and maintaining data 
 </div>&nbsp;&nbsp;
  
 
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
