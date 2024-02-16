@@ -48,5 +48,4 @@ Today I work as a Junior Data Engineer focused on building and maintaining data 
 <a href="https://medium.com/@patrickteixeira_99701" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
